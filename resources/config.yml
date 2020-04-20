@@ -1,0 +1,109 @@
+#Bienvenido a las configuraciones de EnderCore
+#Plugin creado por IvanCraft623
+#Canal de Youtube: IvanCraft623
+#Hize el plugin lo más configurable posible
+
+#Permisos del plugin:
+#Size: size.tamaño
+#Hora: hora.poner
+# Fly: fly.vuelo
+
+
+#Importante NO BORRES LAS COMILLAS!
+
+#Edita esta configuración a tu gusto, solo edita lo que esta entre comillas
+
+#Prefix, el texto que saldra antes de cada mensaje, de preferencia pon el nombre de ru server :)
+Prefix: "§5Ender§aGames§r §7» "
+
+#Nombre de tu Server
+Server: "§5Ender§aGames"
+
+#Perzonaliza el objeto de la brujula:
+#Escribe el nombre que le quieres dar al objeto
+Brujula: "Servers"
+#Escribe el comando que quieres que ejecute al interactuar con el objeto, sin "/"
+Brujulla_Comando: "servers"
+
+
+#Seccion de Juegos
+
+#Usa "\n" para saltar un renglon
+#Los comando escribir sin "/"
+
+#Juego 1
+#Inserta nombre del Juego...
+Juego1: "§2§lSurvival"
+#Aqui pon lo que quieres que diga abajo del nombre
+Juego1_desc: "\n§r§7Toca para ir"
+#Comando al tocar el boton
+Juego1_comando: "transferserver endergames.ddns.net 19132"
+
+#Juego 2
+Juego2: "§b§l1§evs§b1"
+Juego2_desc: "\n§r§7Toca para ir"
+Juego2_comando: "1vs1 join"
+
+#Juego 3
+Juego3: "§5§lSumo"
+Juego3_desc: "\n§r§7Toca para ir"
+Juego3_comando: "sumo entrar"
+
+#Juego 4
+Juego4: "§b§lSky§1Wars"
+Juego4_desc: "\n§r§7Toca para ir"
+Juego4_comando: "warp SkyWars"
+
+#Juego 5
+Juego5: "§2§lEscape §bde la §cBestia"
+Juego5_desc: "\n§r§7Toca para ir"
+Juego5_comando: "warp EDLB"
+
+#Juego 6
+Juego6: "§l§eParcelas"
+Juego6_desc: "\n§r§7Toca para ir"
+Juego6_comando: "warp Parcelas"
+
+
+#Cosmeticos
+
+#Cosmetico 1
+Cosmetico1: "§9§lCapa"
+Cosmetico1_desc: "\n§r§7Gratis para todos"
+Cosmetico1_comando: "cape"
+
+#Cosmetico 2
+Cosmetico2: "§1§lChat §2C§6o§dl§co§3r§8i§bd§4o"
+Cosmetico2_desc: "\n§r§7Próximamente..."
+Cosmetico2_comando: "Aqui pon el comando"
+
+#Cosmetico 3
+Cosmetico3: "§5§lPartículas"
+Cosmetico3_desc: "\n§r§7Ponte Partículas"
+Cosmetico3_comando: "px"
+
+#Mensaje al no tener permiso para cambiar la hora del hub
+No_Perm_Hora: "§cSolo para VIP/VIP+/Dios"
+#Mensaje al no tener permiso para cambiar de tamaño
+No_Perm_Size: "§cSolo para VIP+/Dios"
+
+
+#Información de tu server
+#Usa "\n" para saltar un renglon
+ServerInfo: "§fInformación del Servidor\n\n§aServer para §9Minecraft 1.14\n§aSoftware §9Pocketmine\n§aOwner §9IvanCraft623\n§aDevelopers §9IvanCraft623, JorgeTRm\n§aIP §9EnderGames.ddns.net\n§aPort §919132\n§fPuedes donar al: §bpaypal.me/EnderGamesMX\n\n§eEsperamos que te Diviertas"
+
+#Redes sociales
+RedSocial1: "§9Discord: §5discord.gg/BQQZWMV"
+RedSocial2: "§9Facebook: §afacebook.com/endergames.mx.9"
+
+#Mensaje de Información acerca de como obtener los rangos de Staff. Personaliza este mensaje
+StaffInfo: "§aComunicate al discord del Dueño IvanCraft623§9 IvanCraft62320#7732§a o al Correo Electrónico: §9ender.games.servidor@gmail.com"
+
+#Rangos YT Info
+YT_Info: "§l§fMicro§4YT§7§r:\n§e   30 subs + Review\n§e   Posteriormente pedir a un Admin o    al Dueño\n\n§l§fMini§4YT§r§7:\n§e   100 subs + Review\n§e   Posteriormente pedir a un Admin o    al Dueño\n\n§l§fYou§4Tuber§r§7:\n§e   500 subs + Review\n§e   Posteriormente pedir a un Admin o    al Dueño\n\n§l§fYou§4Tuber§b+§r§7:\n§e   1,500 subs + Review\n§e   Posteriormente pedir a un Admin o    al Dueño\n\n§l§fFam§4ous§r§7:\n§e   3,000 subs + Review\n§e   Posteriormente pedir a un Admin o    al Dueño"
+
+#Rangos de Compra Info
+Buy_Ranks_Info: "§fTienda de Rangos en§7: §bbit.ly/EnderGames-Tienda\n\n§l§f>>§6VIP§f<<§r§7:\n§e   30 días\n§e   Instrucciones para reclamar en la pagina web\n\n§l§f>>§6VIP§b+§f<<§r§7:\n§e   30 días\n§e   Instrucciones para reclamar en la pagina web\n\n§l§f§k!i§r§l§eDios§f§ki!§r§7:\n§e   Permanente\n§e   Instrucciones para reclamar en la pagina web"
+
+#Reglas del server
+Reglas_Info: "§fReglas del Server aplica en Survival\n\n§cQuedan §lPROHIBIDAS§r§c las siguientes acciones§r§7:\n\n\n§3Uso de clientes ilegales o Hacks, son considerados trampa en nuestro servidor y merita §515 días de ban\n\n§3Pasar ip de otros servidores, con una sanción de §57 días de ban\n\n§3Decir groserías o contenido inapropiado, se castiga con §51 día de ban\n\n§3Uso de skins inadecuadas, este tipo de skins puede ofender personas, es castigado con 3 días de ban\n\n§3Destruir construcciones o casas en la modalidad survival, §515 días de ban\n\n§3Duplicación de items en Survival, §530 días de ban"

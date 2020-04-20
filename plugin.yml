@@ -1,0 +1,17 @@
+name: EnderCore
+main: Core\Core
+author: IvanCraft623
+description: Parte del codigo de este plugin fue sacado de un plugin que me hizo mi amigo JorgeTRm, se merece creditos :)
+api:
+- 3.0.0
+version: 1.0.2
+permissions:
+      size.tamaño:
+        description: Modifica tu tamaño
+        default: op
+      fly.vuelo:
+        description: Volar
+        default: op
+      hora.poner:
+        description: Cambiar la hora del Lobby
+        default: op
